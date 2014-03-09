@@ -24,6 +24,9 @@ Additionally, Facetious introduces an extra 'pretty permalink' structure around 
 
 Please note - Facetious isn't a replacement search engine; it helps you construct the search query, but then it's over to WordPress to run the actual search.
 
+Languages:
+ * Spanish by [Closemarketing](http://www.closemarketing.es/)
+
 = About =
 
 Facetious is a product of [Code For The People Ltd](http://codeforthepeople.com), and is based on work done during 2012 on behalf of several UK public sector clients, among them:
@@ -61,7 +64,7 @@ Each item in the 'fields' array can be either:
  * One of `s`, `m` or `pt` for the keyword search input, month dropdown and post type dropdown respectively
 
 For each field specified as an array you can specify:
- 
+
  * `label`   - string - The descriptive text for this field. Defaults to the name of the taxonomy, or 'All types' for post types..
  * `class`   - string - The class name for the field.
  * `id`      - string - The ID attribute for the field.

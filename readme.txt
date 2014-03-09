@@ -115,6 +115,9 @@ The `the_facetious_terms` template function returns an HTML list of links to Fac
 
 You can use `get_current_facetious_query` to return the Facetious query args for the current page.
 
+Languages:
+ * Spanish by [Closemarketing](http://www.closemarketing.es/)
+
 == Installation ==
 
 You can install this plugin directly from your WordPress dashboard:
